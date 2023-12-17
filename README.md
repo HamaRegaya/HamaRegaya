@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Regaya</h1>
-I am a student passionated in Artificial Intelligence, Machine Learning and<br>Deep Learning. I have acquired a solid background in mathematics,<br>statistics and programming, and I am able to apply these skills to develop<br>complex data models and machine learning algorithms. I am also able to<br>work in a team and collaborate with professionals from different fields to<br>achieve common goals.
+<h3 align="center">I am a student passionated in Artificial Intelligence, Machine Learning and Deep Learning. I have acquired a solid background in mathematics, statistics and programming, and I am able to apply these skills to develop complex data models and machine learning algorithms. I am also able to work in a team and collaborate with professionals from different fields to achieve common goals.</h3>
 
 
 ## 🌐 Socials:
