@@ -18,6 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=HamaRegaya&icon=0&color=1)](https://visitcount.itsvg.in)
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake.svg)
-
 ![](https://raw.githubusercontent.com/HamaRegaya/HamaRegaya/output/github-contribution-grid-snake.svg)
