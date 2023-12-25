@@ -1,3 +1,6 @@
+
+![Intro_git](https://github.com/HamaRegaya/HamaRegaya/assets/80206931/89f94246-1d72-4c61-8454-48e4797ee725)
+
 <h1 align="center">Hi 👋, I'm Mohamed Regaya</h1>
 <h3 align="center">I am a student passionated in Artificial Intelligence, Machine Learning and Deep Learning. I have acquired a solid background in mathematics, statistics and programming, and I am able to apply these skills to develop complex data models and machine learning algorithms. I am also able to work in a team and collaborate with professionals from different fields to achieve common goals.</h3>
 
