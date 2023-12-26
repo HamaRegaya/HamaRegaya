@@ -2,7 +2,6 @@
 
 <h3 align="center">I am a student passionated in Artificial Intelligence, Machine Learning and Deep Learning. I have acquired a solid background in mathematics, statistics and programming, and I am able to apply these skills to develop complex data models and machine learning algorithms. I am also able to work in a team and collaborate with professionals from different fields to achieve common goals.</h3>
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eRPqSHrxdu) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/regaya.mouhamed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mouhamedregaya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/regaya-mohamed-462992218) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mohamedregaya23) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HamaRegaya) 
 
